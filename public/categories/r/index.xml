@@ -6,10 +6,19 @@
     <description>Recent content in R on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NEW POST</title>
+      <link>/2018/12/07/new-post/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/07/new-post/</guid>
+      <description>print(&amp;quot;MARK DOWN&amp;quot;)## [1] &amp;quot;MARK DOWN&amp;quot;</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
